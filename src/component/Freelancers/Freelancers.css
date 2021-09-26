@@ -1,16 +1,18 @@
+/* give css style outer of cart */
 .freelancer-Details{
     padding: 4% .2% 4% 4%;
     display: grid;
     grid-template-columns: 3fr 1fr;
 }
+/* cart makes in 3 column  */
 .takes-Frilancer{
     display: grid;
     grid-template-columns: repeat(3,1fr);
     grid-gap: 20px;
 }
+/* cart add person information css here */
 .income-detaills{
     margin: 0 10px 0px 25px;
-    box-shadow: 0px 0px 10px 0px grey;
     padding: 10px;
     border-radius: 10px;
     position:relative;
