@@ -1,0 +1,36 @@
+
+  [
+    {"name":"Jara Jerin","id":1,"nationality":"American","age":23,"works":"web developer","income":3000,"Email":"jara3040@gmail.com","img":"https://image.freepik.com/free-photo/cute-freelance-girl-using-laptop-sitting-floor-smiling_176420-20221.jpg"},
+
+    {"name":"Nilon Pitter","id":2,"nationality":"Canadian","age":27,"works":"web designer","income":2940,"Email":"pitter7689@gmail.com","img":"https://image.freepik.com/free-photo/happy-freelancer-with-tablet-laptop-computer-coffee-shop_342744-942.jpg"},
+
+    {"name":"Tenti Toini","id":3,"nationality":"Italian","age":22,"works":"Digital Marketing","income":29000,"Email":"toniota56720@gmail.com","img":"https://image.freepik.com/free-photo/young-business-typing-netbook-keyboard-listening-music_8353-5973.jpg"},
+
+    {"name":"Saddam Hossain","id":4,"nationality":"Bangladeshi","age":26,"works":"WordPress Developer","income":2862,"Email":"saddam293@gmail.com","img":"https://image.freepik.com/free-photo/smiling-freelancer-copywriter-using-laptop-working-from-home_219285-131.jpg"},
+
+    {"name":"Thaupa Topu","id":5,"nationality":"Chinese","age":24,"works":"Ethical Hacking","income":2840,"Email":"topu3490@gmail.com","img":"https://image.freepik.com/free-photo/young-businessman-office_23-2148205641.jpg"},
+
+    {"name":"Sara Binti","id":6,"nationality":"American","age":21,"works":"web designer","income":2800,"Email":"sahauri4530@gmail.com","img":"https://image.freepik.com/free-photo/young-woman-works-remotely-computer-home-freelancer-work-internet_169016-4284.jpg"},
+
+    {"name":"Tripti","id":7,"nationality":"Australian","age":26,"works":"web developer","income":2790,"Email":"tripti4530@gmail.com","img":"https://image.freepik.com/free-photo/cute-girl-beige-shirt-touching-glasses-holding-laptop-with-smile_197531-6704.jpg"},
+
+    {"name":"Rohini Mukarji","id":8,"nationality":"Indian","age":32,"works":"WordPress Developer","income":2765,"Email":"rohini3459@gmail.com","img":"https://image.freepik.com/free-photo/woman-working-laptop-street-cafe-wearing-stylish-smart-clothes-jacket-glasses_1157-48370.jpg"},
+
+    {"name":"Ahmad Hossain","id":9,"nationality":"Turkish","age":24,"works":"web designer","income":2734,"Email":"ahmad4530@gmail.com","img":"https://image.freepik.com/free-photo/smiling-man-shirt-sitting-relaxed-sofa-home-table-working-online-laptop-from-home_285396-9254.jpg"},
+
+    {"name":"Sonia Sheikh","id":10,"nationality":"Indian","age":25,"works":"Digital Marketing","income":2700,"Email":"sheikh5630@gmail.com","img":"https://image.freepik.com/free-photo/pretty-woman-with-modern-laptop-sitting-floor-with-win-gesture-grey-wall_231208-10875.jpg"},
+    
+    {"name":"Hamid Khan","id":11,"nationality":"Turkisj","age":30,"works":"web designer","income":2690,"Email":"khan9128@gmail.com","img":"https://image.freepik.com/free-photo/handsome-young-man-sitting-near-coffee-while-working_171337-16867.jpg"},
+
+    {"name":"Priti Akter","id":12,"nationality":"Bangladeshi","age":29,"works":"WordPress Developer","income":2630,"Email":"priti9030@gmail.com","img":"https://image.freepik.com/free-psd/woman-remote-working-laptop_23-2148562489.jpg"},
+
+    {"name":"Mohammad Selim","id":13,"nationality":"Somalian","age":26,"works":"web designer","income":2610,"Email":"mohammad9870@gmail.com","img":"https://image.freepik.com/free-photo/freelancer-bearded-man-taking-notes-laptop_85574-3146.jpg"},
+    
+    {"name":"Rohit Sorma","id":14,"nationality":"Napalian","age":27,"works":"web developer","income":2600,"Email":"rohit9870@gmail.com","img":"https://image.freepik.com/free-photo/young-collage-student-using-computer-mobile-device-studying-online-education-online-learning_1421-4504.jpg"},
+    
+    {"name":"Jafor Khan","id":15,"nationality":"Bangladeshi","age":34,"works":"WordPress Developer","income":2570,"Email":"jafor8945@gmail.com","img":"https://image.freepik.com/free-photo/remote-work_1098-14006.jpg"},
+    
+    {"name":"Nazifa Naushin","id":16,"nationality":"American","age":27,"works":"Digital Marketing","income":2473,"Email":"tombsmrstu786@gmail.com","img":"https://image.freepik.com/free-photo/asian-woman-talking-phone-looking-laptop-while-sitting-chair-working-woman-sat-with-her-legs-crossed-confidently_231208-10537.jpg"},
+    
+    {"name":"Prionti Sheikh","id":17,"nationality":"Italian","age":31,"works":"web developer","income":2450,"Email":"sipon981@gmail.com","img":"https://image.freepik.com/free-photo/debonair-white-girl-casual-shirt-posing-street-with-computer-outdoor-portrait-enthusiastic-female-student-using-laptop_197531-19955.jpg"}
+  ]
