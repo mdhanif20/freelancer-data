@@ -1,6 +1,6 @@
 # Freelancers Information website
 
-This project was creat by react [Freelanccers Information](https://github.com/facebook/create-react-app).
+This project was creat by react [Freelanccers Information website](https://react-assign1-freelancinginco-calculation-hoover-e093.netlify.app).
 
 ## About This website
 1.This is a freelancers information website.
