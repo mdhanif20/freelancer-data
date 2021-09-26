@@ -3,11 +3,11 @@
     padding: 20px;
     box-shadow: 0px 0px 10px 0px #1869d3;
     border-radius: 10px;
-    border: 2px solid #1869d3;
-    background-color: #101841;
+    border: 1px solid #1869d3;
+    background-color: #eb1680;
     color: #ffffff;
 }
-
+/* #101841 */
 .cart-img img{
     width: 130px;
     height:130px;
@@ -31,7 +31,7 @@ button.freelancer-btn {
     background-color: #1869d3;
     padding: 10px 10px;
     border-radius: 10px;
-    box-shadow: 0px 0px 2px 0px #1869d3/* #33d633 */;
+    box-shadow: 0px 0px 2px 0px #1869d3;
     color: #ffffff;
     cursor: pointer;
 }

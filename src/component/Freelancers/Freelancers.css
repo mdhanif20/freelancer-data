@@ -9,13 +9,14 @@
     grid-gap: 20px;
 }
 .income-detaills{
-    margin: 10px;
+    margin: 0 10px 0px 25px;
     box-shadow: 0px 0px 10px 0px grey;
     padding: 10px;
     border-radius: 10px;
     position:relative;
     background-color: #101841;
     color: #ffffff;
-    border: 2px solid #1869d3;
+    border: 1px solid #1869d3;
     box-shadow: 0px 0px 10px 0px #1869d3;
+    text-align: center;
 }

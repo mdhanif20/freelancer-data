@@ -11,8 +11,8 @@ const Calculation = (props) => {
     }
     return (
         <div>
-            <h2>Total Freelancer:{allPerson.length}</h2>
-            <h2>Income Total: {total}</h2>
+            <h2>Total Freelancer: {allPerson.length}</h2>
+            <h2>Income Total: ${total}</h2>
             {
                 allPerson.map(person=> <div key={person.id} className="freelancer-name">
                     <img src={person.img} alt="" />
