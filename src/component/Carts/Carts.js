@@ -1,9 +1,8 @@
 import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faCoffee , faCartPlus } from '@fortawesome/free-solid-svg-icons';
+import { faCartPlus } from '@fortawesome/free-solid-svg-icons';
 import "./Carts.css";
 const Carts = (props) => {
-    console.log(props.freelancer)
     const {img,name,age,nationality,works,income,Email} = props.freelancer;
     const element = <FontAwesomeIcon icon={faCartPlus} />
     return (
@@ -20,7 +19,7 @@ const Carts = (props) => {
                         <li>Monthly Income: <span> {income}</span></li>
                         <li>Email: <span> {Email}</span></li>
                     </ul>
-                    <button className="freelancer-btn">{element} Income Calculation</button>
+                    <button onClick={()=>props.totalIncomeFreelancer(props.freelancer)} className="freelancer-btn">{element} Income Calculation</button>
                  </div>
         </div>
     );
